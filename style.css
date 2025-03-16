@@ -1,0 +1,26 @@
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+  .hero {
+    height: 100vh;
+    background: #f8f9fa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .contact-map {
+    font-size: 20px;
+    font-weight: bold;
+    color: #007bff;
+    text-decoration: none;
+  }
+  .contact-map:hover {
+    text-decoration: underline;
+  }
+  p {
+    text-align: justify;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
